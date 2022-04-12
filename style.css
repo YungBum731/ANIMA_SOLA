@@ -293,7 +293,7 @@ a:active {
     }
     .site-navigation {
         background: #1f1a1a;
-        background: #000 url(images/227.gif); /* Фоновый цвет и фоновый рисунок*/
+        background: #000 url(images/123.jpg); /* Фоновый цвет и фоновый рисунок*/
         opacity: 0.6;
     }
     .site-navigation.show {
